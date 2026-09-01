@@ -1,0 +1,10 @@
+# Private teaching material
+/instructor/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Local tool output
+node_modules/

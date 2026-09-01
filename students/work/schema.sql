@@ -1,0 +1,2 @@
+-- Ask the LLM to implement only after architecture.md is decided.
+-- Keep the complete schema and registration operation in this file.

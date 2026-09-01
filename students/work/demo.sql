@@ -1,0 +1,2 @@
+-- Add small seed data and executable checks for the required behavior.
+-- Include EXPLAIN for the roster lookup.
